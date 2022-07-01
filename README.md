@@ -1,6 +1,8 @@
-# Kodluyoruz Ilk Repo
 
-![Resmi](https://www.kodluyoruz.org/)
+
+![Resmi](https://github.com/EagleGazii/kodluyoruzilkrepo/blob/651697b9c9da66a1e32f8a1b7e2ccf8d64874667/img.png)
+
+# Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
